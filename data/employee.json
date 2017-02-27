@@ -1,0 +1,54 @@
+[{
+  "id": "2001",
+  "name": "David",
+  "department": "Markets",
+  "network": [2003,2004,2006,2007]
+},
+{
+  "id": "2002",
+  "name": "Ruben",
+  "department": "Finance",
+  "network": [2003]
+},
+{
+  "id": "2003",
+  "name": "Raghu",
+  "department": "Markets",
+  "network": [2002]
+},
+{
+  "id": "2004",
+  "name": "Ana",
+  "department": "KYC",
+  "network": [2001]
+},
+{
+  "id": "2005",
+  "name": "Susan",
+  "department": "Retail",
+  "network": [2006]
+},
+{
+  "id": "2006",
+  "name": "Lisa",
+  "department": "Retail",
+  "network": [2005]
+},
+{
+  "id": "2007",
+  "name": "Scott",
+  "department": "Markets",
+  "network": [2001,2008]
+},
+{
+  "id": "2008",
+  "name": "Mike",
+  "department": "AML",
+  "network": [2007,2009]
+},
+{
+  "id": "2009",
+  "name": "Kris",
+  "department": "AML",
+  "network": [2008]
+}]

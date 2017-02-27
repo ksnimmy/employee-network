@@ -1,0 +1,47 @@
+/* ===============================
+     fonts
+   =============================== */
+$font: "Open Sans", Helvetica, Arial, sans-serif;
+$font-italic:  Cambria, Times New Roman, Times, serif;
+$font-bold: Helvetica, Arial, sans-serif;
+$font-semibold: Helvetica, Arial, sans-serif;
+$font-extrabold: Helvetica, Arial, sans-serif;
+$font-extralightitalic: Helvetica, Arial, sans-serif;
+
+/* ===============================
+     sizes
+   =============================== */
+$large: 28px;
+$medium: 20px;
+$small: 14px;
+
+/* ===============================
+     weights
+   =============================== */
+$thin: 300;
+$normal: 400;
+$semi-bold: 600;
+$bold: 700;
+$extra-bold: 900;
+
+/*==================================
+
+Variables
+
+====================================*/
+
+$black:             #231f20;
+$white:             #fff;
+
+$light-gray:        #f8f9fa;
+$gray:              #eaedf2;
+$text-color:        #5c6b80;
+
+$link-color:        $black;
+$link-hover:        darken($link-color, 9%);
+
+$border-color:      #ccc;
+$disabled-gray:     #cfcfcf;
+$alert-red:					red;
+$alert-green:				#645564;
+$alert-blue:				blue;

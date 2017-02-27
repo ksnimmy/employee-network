@@ -1,0 +1,27 @@
+{
+  "name": "Employee Network",
+  "version": "1.0.0",
+  "authors": [
+    "Nimmymol Kalathil Sambasivan"
+  ],
+  "description": "Employee Network application made for Citi",
+  "main": "app.js",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "angular-route": "~1.3.13",
+    "angular-sanitize": "~1.3.13",
+    "jquery": "3.1.1"
+  }
+}
